@@ -9,7 +9,9 @@ Here are your login details:
 
 E-MAIL ADDRESS: {email}
 
-PASSWORD: {passwd} 		 
+PASSWORD: {passwd}
+
+Happy Shopping!
 
 Important Security Tips:
 
