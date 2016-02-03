@@ -1,0 +1,31 @@
+
+[{shop_url}]
+
+Hi {firstname} {lastname},
+
+Thank you for creating an affiliate account at {shop_name}.
+
+Here are your login details:
+
+E-MAIL ADDRESS: {email}
+
+PASSWORD: {passwd}
+
+You can access your affiliate account in the Affiliate Area at [{affiliate_area_url}].
+
+Important Security Tips:
+
+* Always keep your account details safe.
+
+* Never disclose your login details to anyone.
+
+* Change your password regularly.
+
+* Should you suspect someone is using your account illegally, please
+notify us immediately.
+
+You can also place orders in our shop: {shop_name}
+[{shop_url}]
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] and Affiliates Pro(tm) [http://www.itthinx.com/shop/affiliates-pro-prestashop/]
